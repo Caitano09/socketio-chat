@@ -10,7 +10,7 @@
 
 ## Preview
 <div>
-  <img src="public/Untitled.gif" alt="demo" height="425"><br/>
+  <img src="chat-socketio-react/public/Untitled.gif" alt="demo" height="425"><br/>
 </div>
 
 ## 🚀 How to use
